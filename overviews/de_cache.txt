@@ -1,0 +1,12 @@
+global
+{
+	ZOOM	1.83
+	ORIGIN	454.44 1531.25 -372
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/de_cache.tga"
+	HEIGHT	-372
+}
